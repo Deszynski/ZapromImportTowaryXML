@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ZapromImportTowaryXML\ZapromImportTowaryXML\bin\Debug\ZapromImportTowaryXML.exe.config
+C:\Users\User\source\repos\ZapromImportTowaryXML\ZapromImportTowaryXML\bin\Debug\ZapromImportTowaryXML.exe
+C:\Users\User\source\repos\ZapromImportTowaryXML\ZapromImportTowaryXML\bin\Debug\ZapromImportTowaryXML.pdb
+C:\Users\User\source\repos\ZapromImportTowaryXML\ZapromImportTowaryXML\bin\Debug\Soneta.Start.dll
+C:\Users\User\source\repos\ZapromImportTowaryXML\ZapromImportTowaryXML\obj\Debug\ZapromImportTowaryXML.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ZapromImportTowaryXML\ZapromImportTowaryXML\obj\Debug\ZapromImportTowaryXML.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ZapromImportTowaryXML\ZapromImportTowaryXML\obj\Debug\ZapromImportTowaryXML.exe.config
+C:\Users\User\source\repos\ZapromImportTowaryXML\ZapromImportTowaryXML\obj\Debug\ZapromImportTowaryXML.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ZapromImportTowaryXML\ZapromImportTowaryXML\obj\Debug\ZapromImportTowaryXML.csproj.CopyComplete
+C:\Users\User\source\repos\ZapromImportTowaryXML\ZapromImportTowaryXML\obj\Debug\ZapromImportTowaryXML.exe
+C:\Users\User\source\repos\ZapromImportTowaryXML\ZapromImportTowaryXML\obj\Debug\ZapromImportTowaryXML.pdb
+C:\Program Files (x86)\Common Files\Soneta\Assemblies\ZapromImportTowaryXML.exe.config
+C:\Program Files (x86)\Common Files\Soneta\Assemblies\ZapromImportTowaryXML.exe
+C:\Program Files (x86)\Common Files\Soneta\Assemblies\ZapromImportTowaryXML.pdb
